@@ -1,7 +1,9 @@
 # Survey_Ship🚢
 > - A premium App developed for Elevator Companies to conduct shaft surveys 💒
->> Survey Ship allows elevator companies to keep digital records of door entrance measurents during the installation process. 
->> Elevator companies can pay large fines due to delays caused by undesirable measurements being recorded on site. This app ensures all meassurements given by a building contractor are stored in a centrelised location for ALL the companies sites. Reducing the likely hood of heavy charges due to incorrect measurements the lift company would otherwise pay.
+##This App
+>> * Survey Ship allows elevator companies to keep digital records of door entrance measurents during the installation process. 
+>> * Elevator companies can pay large fines due to delays caused by undesirable measurements being recorded on site. This app ensures all meassurements given by a building contractor are stored in a centrelised location for ALL the companies sites. Reducing the likely hood of heavy charges due to incorrect measurements the lift company would otherwise pay.
+
 
 | List Of Elevator Shafts| Measurements Of Entrances|
 |-----|-----|
