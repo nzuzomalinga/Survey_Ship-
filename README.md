@@ -1,5 +1,5 @@
 # Survey_Ship🚢
-> - A premium App developed for Elevator Companies to conduct shaft surveys 💒
+> - A premium app developed for elevator companies to conduct shaft surveys 💒
 >> ## The Elevator Technicians Best Friend
 >> * Survey Ship allows elevator companies to keep digital records of door entrance measurents during the installation process. 
 >> * Elevator companies often pay large fines due to delays caused by incorrect measurements being recorded on site. This app ensures all meassurements given by a building contractor are stored in a centrelised database. This app can save an elevator companies hundreds of thousands in construction delay charges.
